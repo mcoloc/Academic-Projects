@@ -1,0 +1,25 @@
+[
+    {
+        "sensor_type":"temperature",
+        "min":18,
+        "max":26,
+        "max_good":22,
+        "measure":"Celsius"
+    },
+    {
+        "sensor_type":"humidity",
+        "min":40,
+        "max":60,
+        "max_good":50,
+        "measure":"percentage"
+    },
+
+    {
+        "sensor_type":"CO2",
+        "min":0,
+        "max":1000,
+        "max_good":700,
+        "measure":"ppm"
+    }
+]
+

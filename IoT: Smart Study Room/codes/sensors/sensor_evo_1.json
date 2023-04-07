@@ -1,0 +1,8 @@
+{
+    "sensor_id":"sensor_evo_1",
+    "sensor_type":["fiscal_code"],
+    "measure":["string"],
+    "sensor_model":"minilectorevo",
+    "server_ip":"192.168.1.8",
+    "server_port":8085
+}

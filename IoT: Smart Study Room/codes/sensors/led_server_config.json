@@ -1,0 +1,9 @@
+{
+    "sensor_id":"led1",
+    "sensor_type":["led"],
+    "measure":["boolean"],
+    "sensor_model":"dollatech",
+    "ip":"192.168.1.8",
+    "port":8088,
+    "pin":27
+}

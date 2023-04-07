@@ -1,0 +1,8 @@
+{
+    "sensor_id":"evo_1",
+    "sensor_type":["evo"],
+    "measure":["string"],
+    "sensor_model":"minilectorevo",
+    "ip":"192.168.1.8",
+    "port":8085
+}

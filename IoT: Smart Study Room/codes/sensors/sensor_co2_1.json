@@ -1,0 +1,6 @@
+{
+    "sensor_id":"sensor_co2_1",
+    "sensor_type":["CO2"],
+    "measure":["ppm"],
+    "sensor_model":"simulated_sensor"
+}

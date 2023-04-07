@@ -1,0 +1,1 @@
+{"resource_catalogs": [{"broker": "test.mosquitto.org", "broker_port": 1883, "base_topic": "room_1", "ip_address": "192.168.1.208", "ip_port": "8081", "owner": "sede_centrale_politecnico"}], "ip_address": "192.168.1.208", "ip_port": 8095, "broker_port": 1883, "broker": "test.mosquitto.org", "base_topic": "study_room_politecnico"}
