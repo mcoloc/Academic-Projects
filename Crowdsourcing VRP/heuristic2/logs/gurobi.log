@@ -1,0 +1,44 @@
+
+Gurobi 10.0.0 (linux64) logging started Tue Jan 24 16:42:24 2023
+
+Set parameter LogFile to value "./logs/gurobi.log"
+Warning: constraint name "exit time" has a space
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 10.0.0 build v10.0.0rc2 (linux64)
+
+CPU model: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+
+
+Gurobi 10.0.0 (linux64) logging started Tue Jan 24 17:04:56 2023
+
+Set parameter LogFile to value "./logs/gurobi.log"
+Warning: constraint name "exit time" has a space
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 10.0.0 build v10.0.0rc2 (linux64)
+
+CPU model: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+
+
+Gurobi 10.0.0 (linux64) logging started Wed Jan 25 13:48:01 2023
+
+Set parameter LogFile to value "./logs/gurobi.log"
+Warning: constraint name "exit time" has a space
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 10.0.0 build v10.0.0rc2 (linux64)
+
+CPU model: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+
+
+Gurobi 10.0.0 (linux64) logging started Wed Jan 25 17:31:02 2023
+
+Set parameter LogFile to value "./logs/gurobi.log"
+Warning: constraint name "exit time" has a space
+Set parameter LazyConstraints to value 1
+Gurobi Optimizer version 10.0.0 build v10.0.0rc2 (linux64)
+
+CPU model: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+
